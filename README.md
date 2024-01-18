@@ -54,10 +54,10 @@
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100px">
   </a>
 
-  <br>
-  <br>
-
 </details>
+
+<br>
+<br>
 
 <details>
   <summary>🔗 <b>References and Links</b></summary>
