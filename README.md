@@ -39,7 +39,7 @@
   <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
   
   <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/></a>
-  
+<br>  
 </div>
 
 <br>
@@ -54,9 +54,10 @@
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100px">
   </a>
 
-</details>
+  <br>
+  <br>
 
-<br>
+</details>
 
 <details>
   <summary>🔗 <b>References and Links</b></summary>
