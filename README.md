@@ -55,11 +55,9 @@
   </a>
 
 </details>
-
+</div>
 <br>
-<br>
-<br>
-
+<div style="display: flex; flex-direction: column;">
 <details style="z-index: 1;">
   <summary>🔗 <b>References and Links</b></summary>
   
