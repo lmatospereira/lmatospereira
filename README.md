@@ -14,6 +14,7 @@
     <img align="left" style="padding-right:10px;" alt="Itaú" title="Itaú" src="https://custom-icon-badges.demolab.com/static/v1?logo=itau&label=working+@&message=itau&labelColor=E1017C&color=FE209B&style=for-the-badge"
   </a>
 </div>
+</br>
 
 ### stacks
   
@@ -27,8 +28,8 @@
   <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
   <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
   <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/></a>
-</div>
-<br>
+</div></br>
+
 <div style="display: flex; flex-direction: column;">
 <details>
   <summary>🖊️ <b>Certificates</b> </summary>
@@ -36,7 +37,7 @@
   <a href="https://www.credly.com/badges/8aacfeda-ca0b-49e0-a9f6-788993e723fd/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate Badge" align="left" width="100px"></a>
   
 
-</details>
+</details></br>
 
 <details>
   <summary>🔗 <b>References and Links</b></summary>
