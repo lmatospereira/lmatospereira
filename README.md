@@ -39,15 +39,14 @@
   <a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
   
   <a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/></a>
-<br>  
+  
 </div>
 
-<br>
-<br>
+
 
 <div style="display: flex; flex-direction: column;">
 
-<details>
+<details style="z-index: 1;">
   <summary>🖊️ <b>Certificates</b> </summary>
   
   <a href="https://www.credly.com/badges/8aacfeda-ca0b-49e0-a9f6-788993e723fd/public_url">
@@ -56,10 +55,7 @@
 
 </details>
 
-<br>
-<br>
-
-<details>
+<details style="z-index: 1;">
   <summary>🔗 <b>References and Links</b></summary>
   
 - Devs: [@ThiagoPanini](https://github.com/ThiagoPanini), [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
