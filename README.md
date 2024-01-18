@@ -43,6 +43,7 @@
 </div>
 
 <br>
+<br>
 
 <div style="display: flex; flex-direction: column;">
 
@@ -61,12 +62,6 @@
   <summary>🔗 <b>References and Links</b></summary>
   
 - Devs: [@ThiagoPanini](https://github.com/ThiagoPanini), [@ForrestKnight](https://github.com/forrestknight), [@DenverCoder1](https://github.com/DenverCoder1), [@CodeSTACKr](https://github.com/codeSTACKr), [@rishavchanda](https://github.com/rishavchanda), [@rafaballerini](https://github.com/rafaballerini), [@arthurspk](https://github.com/arthurspk), [@Lissy93](https://github.com/Lissy93), [@gautamkrishnar](https://github.com/gautamkrishnar)
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for the writing on the beginning of this page
-- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) for custom icons on badges (e.g. Hashnode and Itau)
-- [devicons/devicon](https://github.com/devicons/devicon) for tech icons and tools
-- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) for YouTube cards
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for profile stats and GitHub activity
-- [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity) for automating recent activity on GitHub
 
 </details>
 </div>
