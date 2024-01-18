@@ -45,7 +45,7 @@
 <br>
 <br>
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-wrap: wrap;">
 
 <details style="z-index: 1;">
   <summary>🖊️ <b>Certificates</b> </summary>
@@ -57,7 +57,7 @@
 </details>
 </div>
 <br>
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-wrap: wrap;">
 <details style="z-index: 1;">
   <summary>🔗 <b>References and Links</b></summary>
   
